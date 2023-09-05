@@ -16,8 +16,14 @@ A travers ce site web dédié aux bateaux, j'ai cherché à combiner esthétique
 
 ## Technologies utilisées :
 
-- React : Pour la création d'interfaces utilisateur interactives.
-- TypeScript : Pour ajouter des types statiques à mon code JavaScript, rendant le développement plus robuste.
-- Vite : Un outil de construction qui garantit des performances rapides et une expérience de développement agréable.
+- React 
+- TypeScript 
+- Vite 
+- WindiCSS
+- framer-motion
 
 ---
+
+🖋️ Designed by: Oxeni - Web Development https://dribbble.com/Oxeni
+
+📽️ Inspired by YouTube channel: https://youtu.be/jNj9rZ3mK00
